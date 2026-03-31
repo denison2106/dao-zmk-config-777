@@ -1,1 +1,3 @@
-
+# Обязательно для ZMK main после декабря 2024
+config ZMK_BOARD_COMPAT
+    default y
