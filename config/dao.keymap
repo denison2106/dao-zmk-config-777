@@ -48,9 +48,15 @@
             bindings =
                 <&kp LG(X)>,
                 <&macro_wait_time 150>,
-                <&kp P>,
-                <&macro_wait_time 50>,
-                <&kp C>;
+                <&kp UP>,
+                <&macro_wait_time 20>,
+                <&kp UP>,
+                <&macro_wait_time 20>,
+                <&kp RIGHT>,
+                <&macro_tap_time 20>,
+                <&kp DOWN>,
+                <&macro_tap_time 20>,
+                <&kp ENTER>;
 
             label = "SLEEP";
         };
