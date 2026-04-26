@@ -49,13 +49,13 @@
                 <&kp LG(X)>,
                 <&macro_wait_time 150>,
                 <&kp UP>,
-                <&macro_wait_time 40>,
+                <&macro_wait_time 80>,
                 <&kp UP>,
-                <&macro_wait_time 40>,
+                <&macro_wait_time 80>,
                 <&kp RIGHT>,
-                <&macro_tap_time 40>,
+                <&macro_tap_time 80>,
                 <&kp DOWN>,
-                <&macro_tap_time 40>,
+                <&macro_tap_time 80>,
                 <&kp ENTER>;
 
             label = "SLEEP";
